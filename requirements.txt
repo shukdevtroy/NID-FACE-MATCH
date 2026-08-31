@@ -2,3 +2,4 @@ deepface
 tf-keras
 pycryptodome
 tensorflow
+gradio
